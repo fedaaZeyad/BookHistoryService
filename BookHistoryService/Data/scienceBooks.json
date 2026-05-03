@@ -1,0 +1,22 @@
+[
+  { "id": 1, "title": "A Brief History of Time", "author": "max", "publishDate": "1988" },
+  { "id": 2, "title": "The Origin of Species", "author": "jhon", "publishDate": "1859" },
+  {
+    "id": 3,
+    "title": "Cosmos",
+    "author": "max",
+    "publishDate": "1980"
+  },
+  {
+    "id": 4,
+    "title": "The Selfish Gene",
+    "author": "max",
+    "publishDate": "1976"
+  },
+  {
+    "id": 5,
+    "title": "Surely You're Joking, Mr. Feynman!",
+    "author": "jhon",
+    "publishDate": "1985"
+  }
+]

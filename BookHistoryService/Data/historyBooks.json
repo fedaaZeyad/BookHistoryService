@@ -1,0 +1,22 @@
+[
+  { "id": 1, "title": "Sapiens: A Brief History of Humankind", "author": "noah", "publishDate": "2011" },
+  { "id": 2, "title": "Guns, Germs, and Steel", "author": "Adam", "publishDate": "1997" },
+  {
+    "id": 3,
+    "title": "The History of the Ancient World",
+    "author": "noah",
+    "publishDate": "2007"
+  },
+  {
+    "id": 4,
+    "title": "The Rise and Fall of the Third Reich",
+    "author": "Adam",
+    "publishDate": "1960"
+  },
+  {
+    "id": 5,
+    "title": "A People's History of the United States",
+    "author": "Adam",
+    "publishDate": "1980"
+  }
+]
